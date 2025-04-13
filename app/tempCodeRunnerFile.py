@@ -1,0 +1,1 @@
+streamlit run c:\Users\lenovo\OneDrive\Desktop\Streamlit-App-Cancer\app\main.py
